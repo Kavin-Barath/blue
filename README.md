@@ -1,2 +1,2 @@
-# blue
+# Web Technology Project
 project1
